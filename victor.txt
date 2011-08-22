@@ -1,0 +1,4 @@
+misGustos
+	-Musica
+	-Comics
+	-Te chai!

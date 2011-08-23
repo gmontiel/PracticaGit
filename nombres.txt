@@ -2,6 +2,7 @@ Guillermo Montiel Zayago
 Abel Aljeandro Becerra Martinez !"·$%&/
 Ricardo Aguilar Molina |)
 Alex Díaz
+<<<<<<< HEAD
 Javier Ramirez Martinez
 <<<<<<< HEAD
 >>>>>>> b1d6e491c657f94375147c2e6ecc0aa298e331f4
@@ -9,3 +10,8 @@ Victor Rodriguez
 =======
 Jose Plancarte
 >>>>>>> a8caff78ae76716bbfdf4c04e2e96ede271143b0
+=======
+Jose Plancarte
+Javier Ramirez Martinez
+
+>>>>>>> 3ca26cffb657b2ac9f04676e7916529f86583e57
